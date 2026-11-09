@@ -10,10 +10,10 @@ As part of this assignment, I have written two technical blog posts covering the
 
 1. **Type Narrowing in TypeScript:** Explains how type narrowing works in TypeScript with practical examples using `typeof`, `instanceof`, and the `in` operator.
 
-   [Read Blog 1](https://your-blog-link-1.com)
+   [Read Blog 1](https://github.com/SaykotRayhan/Typescript-Fundamentals-and-OOP/blob/main/access-modifiers-oop.md)
 
 2. **Access Modifiers in TypeScript OOP:** Explains how access modifiers works in TypeScript with practical examples using `public`, `private`, `protected` and `readonly`.
 
-   [Read Blog 2](https://your-blog-link-2.com)
+   [Read Blog 2](https://github.com/SaykotRayhan/Typescript-Fundamentals-and-OOP/blob/main/type-narrowing.md)
 
 Both blog posts include explanations and code examples to demonstrate the concepts clearly.
